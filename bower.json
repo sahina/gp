@@ -1,0 +1,19 @@
+{
+  "name": "gp",
+  "version": "0.0.0",
+  "authors": [
+    "Altug Sahin <altug@aecoffice.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "~1.0.3",
+    "bootstrap": "~3.3.4"
+  }
+}
